@@ -1,0 +1,24 @@
+SIMPLE login logout web website
+
+
+Login Details
+
+Username : admin
+Password : admin
+
+  Start your Xampp server or whatever you are using (start the apacahe websever and MYsql)
+  
+  copy that project files in htdocs .in xampp/lampp folder 
+   
+
+then import The Login.Sql file in Mysql (PHPMYADMIN)
+
+then write localhost/project1/ in search bar and the login screen appears in front of the screen 
+then enter the credentials and log in successfully  
+
+
+
+
+
+
+#THANK YOU.... regards Sameer Ahmad /
